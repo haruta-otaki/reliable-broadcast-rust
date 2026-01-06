@@ -1,1 +1,0 @@
-Option<&(std::sync::mpsc::Sender<&'static str>, std::sync::mpsc::Receiver<&'static str>)>

@@ -1,1 +1,0 @@
-std::iter::FilterMap<std::slice::Iter<'_, Message>, {closure@src/aggregated_barycentric_agreement/mod.rs:240:97: 240:106}>

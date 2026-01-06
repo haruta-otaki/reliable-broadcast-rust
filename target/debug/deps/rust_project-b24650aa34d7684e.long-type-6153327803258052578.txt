@@ -1,1 +1,0 @@
-std::iter::Map<std::slice::Iter<'_, Message<Vec<T>>>, {closure@src/aggregated_barycentric_agreement/mod.rs:271:97: 271:106}>

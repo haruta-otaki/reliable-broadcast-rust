@@ -1,1 +1,0 @@
-for<'a, 'b> fn(u32, &'a mut BarycentricRoundContent, u32, std::string::String, &'b mut BarycentricRoundCount) -> BarycentricReport {<BarycentricCommunicator as BarycentricCommunication>::create_barycentric_report}
