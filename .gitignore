@@ -1,5 +1,3 @@
 # Rust build artifacts
-target/*
+target/
 
-# macOS junk
-.DS_Store
