@@ -1,0 +1,2 @@
+std::iter::FilterMap<std::slice::Iter<'_, Message>, {closure@src/aggregated_barycentric_agreement/mod.rs:240:104: 240:113}>
+Cloned<std::iter::FilterMap<std::slice::Iter<'_, Message>, {closure@src/aggregated_barycentric_agreement/mod.rs:240:104: 240:113}>>

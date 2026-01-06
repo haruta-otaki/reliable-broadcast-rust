@@ -1,0 +1,1 @@
+Map<std::slice::Iter<'_, std::sync::mpsc::Sender<&'static str>>, {closure@src/main.rs:56:56: 56:60}>
