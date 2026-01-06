@@ -15,6 +15,19 @@ This framework provides an infrastructure for sending, receiving, and broadcasti
 
 ---
 
+## Repository Structure
+
+```text
+src/
+├── basic/              # Basic message-passing layer
+├── reliable/           # Quorum-based reliable broadcast
+├── witness/            # Witness-verified broadcast
+├── aggregated_witness/ # Aggregated witness broadcast
+├── json/               # Message serialization utilities
+├── lib.rs              # Shared interfaces and exports
+└── main.rs             # Reference entry point
+```
+
 ## Protocols
 
 ### 1. Basic Message-Passing Layer
@@ -69,7 +82,7 @@ Witness-Verified Broadcast proceeds in rounds, each tracked independently by eve
 
 ---
 
-### 4. Aggregated Witness Broadcast Protocol
+### 4. Aggregated Witness Broadcast
 
 Aggregated Witness Broadcast Protocol coordinates multi-round, multi-layer witness verification, using aggregated reports. Aggregated reports sematically the same as witness reports, containing previously validated Witnesses. 
 
