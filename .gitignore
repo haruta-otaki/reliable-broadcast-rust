@@ -1,6 +1,2 @@
 # Rust build artifacts
 target/
-
-.DS_Store
-
-src/barycentric_agreement/
