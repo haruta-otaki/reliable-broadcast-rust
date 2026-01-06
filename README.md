@@ -11,7 +11,7 @@ This framework provides an infrastructure for sending, receiving, and broadcasti
 1. Basic Message-Passing Protocol
 2. Quorum-Based Reliable Broadcast
 3. Witness-Verified Broadcast
-4. Aggregated Witness Broadcast Protocol
+4. Aggregated Witness Broadcast 
 
 ---
 
